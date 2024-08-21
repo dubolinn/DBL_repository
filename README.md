@@ -1,3 +1,7 @@
 Hello, Git!
 This is a new line
-Second line in master-branch
+<<<<<<< HEAD
+Second line has been added
+=======
+Second line has been added
+>>>>>>> feature-branch
