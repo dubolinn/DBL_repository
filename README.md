@@ -5,3 +5,4 @@ Second line has been added
 =======
 Second line has been added
 >>>>>>> feature-branch
+third line added
